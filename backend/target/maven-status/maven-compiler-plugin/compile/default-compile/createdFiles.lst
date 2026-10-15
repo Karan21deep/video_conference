@@ -1,0 +1,15 @@
+com\telemedicine\model\CarePlan$Prescription.class
+com\telemedicine\model\PatientContext$QuickCheck.class
+com\telemedicine\model\PatientContext$Symptom.class
+com\telemedicine\model\CarePlan.class
+com\telemedicine\service\ConsultationStore.class
+com\telemedicine\service\SignalHandler.class
+com\telemedicine\api\ClinicalApi.class
+com\telemedicine\config\WebConfig.class
+com\telemedicine\config\WebSocketConfig.class
+com\telemedicine\model\CarePlan$MedicalLeave.class
+com\telemedicine\TelemedicineApplication.class
+com\telemedicine\model\CarePlan$FollowUp.class
+com\telemedicine\model\PatientContext$Allergy.class
+com\telemedicine\model\CarePlan$Diagnosis.class
+com\telemedicine\model\PatientContext.class
